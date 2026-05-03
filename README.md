@@ -28,14 +28,6 @@ This project focuses on analyzing credit card transaction data to identify fraud
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](<img width="1311" height="738" alt="creditcard dashboard" src="https://github.com/user-attachments/assets/a145f800-b8d9-4ee6-aaa2-351e81deda98" />
-)
-
----
-
-## 📂 Project Files
-- 📄 
 
 ---
 
